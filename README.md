@@ -19,8 +19,8 @@
 ```
 > whoami
 multidisciplinary designer + web dev. brand identity, packaging,
-full-stack builds, AI-assisted creative production. CS degree,
-security certs, and a stubborn preference for the underground.
+full-stack builds, creative production. 
+Security certsand a stubborn preference for the underground.
 ```
 
 <br>
@@ -30,11 +30,6 @@ security certs, and a stubborn preference for the underground.
 
 <br>
 
-- **Bootlegd** — underground streetwear + collectibles, bootleg-culture aesthetic
-- **Mafioso Packs** — premium cannabis flower brand identity system
-- **Packfun** — creator-owned trading card platform (publish your own TCG)
-- **Optimal** — Windows optimization utility for gamers, custom GUI
-- ...and a graveyard of side quests i refuse to abandon
 
 </details>
 
